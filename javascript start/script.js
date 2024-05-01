@@ -7,7 +7,11 @@
 // let last_name;
 //  last_name =2024;
 // console.log(last_name);
-var birth = 43333;
-var name = "mariyam saleem";
-var email = "mariyamsaleeem87@gmail.com";
-alert(name + "" + email + "    " + birth);
+// var birth = 43333;
+// var name = "mariyam saleem";
+// var email = "mariyamsaleeem87@gmail.com";
+// alert(name + "" + email + "    " + birth);
+let a = 30;
+let b = 40;
+let z= a+b;
+console.log("your result is: " + (a+b));
